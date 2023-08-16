@@ -20,7 +20,7 @@ function App() {
                     />
                 </a>
             </div>
-            <h1>Vite + Github Pages</h1>
+            <h1>Vite + Github Pages Another Test</h1>
             <div className='card'>
                 <button onClick={() => setCount((count) => count + 1)}>
                     count is {count}
